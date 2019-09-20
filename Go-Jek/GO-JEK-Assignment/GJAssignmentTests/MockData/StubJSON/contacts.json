@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "first_name": "Anonymous",
+        "last_name": "Anonymous",
+        "profile_pic": "/images/missing.png",
+        "favorite": false,
+        "url": "https://gojek-contacts-app.herokuapp.com/contacts/1.json"
+    },
+    {
+        "id": 2,
+        "first_name": "Hello",
+        "last_name": "There",
+        "profile_pic": "/images/missing.png",
+        "favorite": false,
+        "url": "https://gojek-contacts-app.herokuapp.com/contacts/2.json"
+    },
+    {
+        "id": 3,
+        "first_name": "Go",
+        "last_name": "Jek",
+        "profile_pic": "/images/missing.png",
+        "favorite": true,
+        "url": "https://gojek-contacts-app.herokuapp.com/contacts/3.json"
+    }
+]
+

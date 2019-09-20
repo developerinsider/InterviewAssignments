@@ -1,0 +1,14 @@
+default_platform(:ios)
+
+platform :ios do
+  desc "Runs all the tests"
+  lane :tests do
+    scan(devices:"iPhone X")
+  end
+
+  desc "Run all the tests and build"
+  lane :build do 
+    scan(devices:"iPhone X")
+    gym
+  end
+end

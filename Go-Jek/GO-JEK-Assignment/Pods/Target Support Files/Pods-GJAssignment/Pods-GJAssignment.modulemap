@@ -1,0 +1,6 @@
+framework module Pods_GJAssignment {
+  umbrella header "Pods-GJAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}

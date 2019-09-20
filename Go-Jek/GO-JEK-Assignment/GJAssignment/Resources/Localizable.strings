@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  GJAssignment
+
+  Created by Anonymous on 17/08/19.
+  Copyright © 2019 Anonymous. All rights reserved.
+*/
+
+"Contact" = "Contact";
+"Groups" = "Groups";
+"Edit" = "Edit";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"message" = "message";
+"call" = "call";
+"email" = "email";
+"favourite" = "favourite";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"mobile" = "mobile";

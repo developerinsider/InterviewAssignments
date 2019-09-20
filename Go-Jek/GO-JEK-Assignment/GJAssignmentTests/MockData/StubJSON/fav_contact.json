@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "first_name": "Anonymous",
+    "last_name": "Anonymous",
+    "email": "vc@gmail.com",
+    "phone_number": "+910987654321",
+    "profile_pic": "/images/missing.png",
+    "favorite": true,
+    "created_at": "2019-08-17T18:45:58.243Z",
+    "updated_at": "2019-08-17T18:45:58.243Z"
+}
