@@ -1,5 +1,6 @@
 # Interview Assignments
 Most comprehensive list of Interview Assignments of companies directly submitted by the Interviewee.
 
-## Go-Jek
-1. [Go-Jek iOS Address Book Assignment](/Go-Jek/GO-JEK-Assignment)
+| Company Name | Assignment  | Download |
+| -------------| ------------- | ------------- |
+| Go-Jek | iOS Address Book Assignment  | [![](https://img.shields.io/badge/download-Assignment-green?style=flat-square)](https://github.com/developerinsider/InterviewAssignments/releases/download/v1.0/GO-JEK-Assignment.zip) |
