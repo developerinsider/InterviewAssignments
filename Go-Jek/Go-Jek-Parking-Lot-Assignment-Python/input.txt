@@ -1,0 +1,22 @@
+leave 2
+park MH-04-AY-1111 Yellow
+create_parking_lot 6
+park HR-11-H-1234 White
+park HR-11-AA-9923 White
+park HR-11-BB-0031 Black
+park HR-13-DH-7237 Red
+park HR-15-DH-2731 Blue
+park HR-11-RH-3231 Black
+status
+leave 4
+status
+leave 2
+leave 20
+status
+park HR-01-PA-4333 White
+park DL-12-AA-8999 Black
+status
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number HR-11-RH-3231
+slot_number_for_registration_number DL-12-AA-8999
