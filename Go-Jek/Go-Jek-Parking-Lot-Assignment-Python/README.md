@@ -61,6 +61,7 @@ python Tests.py
 coverage run Tests.py 
 coverage report
 ```
+![](docs/CodeCoverage.png)
 
 ## 6. Running the application in a Docker Container
 
