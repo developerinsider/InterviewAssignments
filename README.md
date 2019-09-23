@@ -1,8 +1,7 @@
 # Interview Assignments
 List of Interview Assignments of companies directly submitted by the Interviewee.
 
-### Disclaimer
-These solutions are for reference purpose. Please, do not copy-paste it. Companies are smart enough to catch if you are cheating. If your solution got rejected due to this we're not responsible for it.
+**Disclaimer**: These solutions are for reference purpose. Please, do not copy-paste it. Companies are smart enough to catch if you are cheating. If your solution got rejected due to this we're not responsible for it.
 
 | Company | Assignment Title | Language | Code Coverage | Download |
 | -------------| ------------- | ------------- | ------------- | ------------- |
