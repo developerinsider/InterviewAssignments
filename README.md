@@ -5,7 +5,7 @@ List of Interview Assignments of companies directly submitted by the Interviewee
 
 | Company | Assignment Title | Language | Code Coverage | Download |
 | -------------| ------------- | ------------- | ------------- | ------------- |
-| GoJek | [iOS Address Book](/Go-Jek/GO-JEK-Assignment) | Swift | 87.3% | [![](https://img.shields.io/badge/download-Assignment-green?style=flat-square)](https://github.com/developerinsider/InterviewAssignments/releases/download/v1.0/GO-JEK-Assignment.zip) |
+| GoJek | [iOS Address Book](/Go-Jek/GO-JEK-Assignment) | Swift 5 | 87.3% | [![](https://img.shields.io/badge/download-Assignment-green?style=flat-square)](https://github.com/developerinsider/InterviewAssignments/releases/download/v1.0/GO-JEK-Assignment.zip) |
 | GoJek | [Parking Lot](/Go-Jek/Go-Jek-Parking-Lot-Assignment-Python) | Python | 86% | [![](https://img.shields.io/badge/download-Assignment-green?style=flat-square)](https://github.com/developerinsider/InterviewAssignments/releases/download/v1.0.1/Go-Jek-Parking-Lot-Assignment-Python.zip) |
 
 # Contribution
